@@ -104,11 +104,13 @@ Key economic events are clearly captured:
 | Resource | Link |
 |----------|------|
 | 🤗 Live Demo (HuggingFace Space) | [sitayeb/xlmr](https://huggingface.co/spaces/sitayeb/xlmr) |
-| 📓 Notebooks Repository | *(link to thesis-notebooks repo)* |
+| 📓 Notebooks Repository | https://github.com/sitayebhouari/thesis-notebooks|
 | 📊 LABR Arabic Sentiment Dataset | [mohamedadaly/labr](https://huggingface.co/datasets/mohamedadaly/labr) |
 | 📊 Sentiment140 Dataset | [stanfordnlp/sentiment140](https://huggingface.co/datasets/stanfordnlp/sentiment140) |
-| 🌐 App Source Code | *(link to rag-sentiment-app repo)* |
-| 📂 Evaluation Data | *(link to thesis-evaluation-data repo)* |
+| 🌐 App Source Code |https://huggingface.co/spaces/
+sitayeb/xlmr    |
+| 📂 Evaluation Data | https://github.com/sitayebhouari/
+thesis-evaluation-data |
 
 ---
 
