@@ -107,10 +107,8 @@ Key economic events are clearly captured:
 | 📓 Notebooks Repository | https://github.com/sitayebhouari/thesis-notebooks|
 | 📊 LABR Arabic Sentiment Dataset | [mohamedadaly/labr](https://huggingface.co/datasets/mohamedadaly/labr) |
 | 📊 Sentiment140 Dataset | [stanfordnlp/sentiment140](https://huggingface.co/datasets/stanfordnlp/sentiment140) |
-| 🌐 App Source Code |https://huggingface.co/spaces/
-sitayeb/xlmr    |
-| 📂 Evaluation Data | https://github.com/sitayebhouari/
-thesis-evaluation-data |
+| 🌐 App Source Code |https://github.com/sitayebhouari/rag-sentiment-app  |
+| 📂 Evaluation Data | https://github.com/sitayebhouari/thesis-evaluation-data|
 
 ---
 
